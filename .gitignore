@@ -1,0 +1,12 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Build artifact — not needed once Git deploy is set up; regenerate with
+# `zip -r tvga-theme.zip tvga` from the parent folder if you ever need it
+# for a manual upload instead.
+tvga-theme.zip
+
+# Editor folders
+.vscode/
+.idea/

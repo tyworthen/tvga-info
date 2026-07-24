@@ -1,0 +1,21 @@
+/*
+Theme Name: TVGA
+Theme URI: https://tvga.info
+Author: Tooele Valley Gardening Association
+Author URI: https://tvga.info
+Description: Custom theme for the Tooele Valley Gardening Association (tvga.info) — a bright, airy, botanical, community-focused nonprofit theme. Built for the TVGA homepage with dynamic Events and Resources custom post types, editable via wp-admin. No page builder or build step required.
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+Tested up to: 6.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: tvga
+Tags: nonprofit, community, one-column, custom-logo, custom-menu, featured-images, translation-ready
+
+This stylesheet intentionally contains only the required WordPress theme
+header above. All visual styles live in assets/css/main.css and are loaded
+via wp_enqueue_style() in functions.php so the CSS can be edited and cached
+independently of this header file. Do not remove the header comment block
+above — WordPress reads it to identify the theme in wp-admin.
+*/
